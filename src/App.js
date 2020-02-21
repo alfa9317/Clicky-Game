@@ -19,7 +19,7 @@ function shuffle(array) {
 class App extends Component {
 
   state = {
-    message:"Click an image to begin!",
+    message:"Click an image to begin!!",
     score:0,
     highScore:0,
     flag: 0,
