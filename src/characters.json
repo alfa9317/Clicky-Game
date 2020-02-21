@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Rick Sanchez",
+      "image":"assets/images/rick.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Beth Smith",
+      "image": "assets/images/beth.png"
+    },
+    {
+      "id": 3,
+      "name": "Bird Person",
+      "image": "assets/images/bird-person.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Doofus Rick",
+      "image": "assets/images/doofus-rick.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Goldenfold",
+      "image": "assets/images/goldenfold.png"
+    },
+    {
+      "id": 6,
+      "name": "Jerry Smith",
+      "image": "assets/images/jerry.png"
+    },
+    {
+      "id": 7,
+      "name": "Jessica",
+      "image": "assets/images/jessica.png"
+    },
+    {
+      "id": 8,
+      "name": "Mr. Meeseek",
+      "image": "assets/images/meeseeks.png"
+    },
+    {
+      "id": 9,
+      "name": "Morty Smith",
+      "image": "assets/images/morty.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Mr. Poopybutthole",
+      "image": "assets/images/mr-poopybutthole.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Squanchy",
+      "image": "assets/images/squanchy.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Summer Smith",
+      "image": "assets/images/summer.jpg"
+    }
+  ]
